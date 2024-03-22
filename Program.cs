@@ -209,4 +209,34 @@ else
 
 
 
+// Task 4 My books they are a mess
+
+using System.Text.Json;
+using System.Text.Json.Serialization;
+
+nameSpace PropertyOrder
+{
+
+
+
+
+
+
+}
+
+
+Class Books 
+{
+
+
+}
+
+
+
+
+
+
+
+
+
 
