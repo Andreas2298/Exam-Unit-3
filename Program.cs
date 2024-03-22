@@ -225,9 +225,13 @@ nameSpace PropertyOrder
 }
 
 
-Class Books 
+public class Books 
 {
 
+public string BookTitle { get;set; }
+public int BookYear  { get;set; }
+public string BookAuthor { get;set; }
+public string ISBN { get;set; }
 
 }
 
